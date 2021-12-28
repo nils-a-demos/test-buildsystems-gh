@@ -1,4 +1,4 @@
-#module nuget:?package=Cake.BuildSystems.Module&version=4.0.0
+// #module nuget:?package=Cake.BuildSystems.Module&version=4.0.0
 
 var target = Argument("target", "Default");
 
