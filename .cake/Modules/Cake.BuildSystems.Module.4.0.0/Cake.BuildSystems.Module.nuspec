@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cake.BuildSystems.Module</id>
+    <version>4.0.0</version>
+    <title>Cake Build Systems Module</title>
+    <authors>Alistair Chapman</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/cake-contrib/Cake.BuildSystems.Module/</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/module/cake-contrib-module-medium.png</iconUrl>
+    <description>This Cake module will introduce a number of features for running in hosted CI build environments to tightly integrate with the host environment/tools.</description>
+    <copyright>Copyright © Alistair Chapman 2017-2021</copyright>
+    <tags>cake build script cake-build module cake-contrib cake-module ci tfs azure-devops azure-devops-server myget teamcity travisci</tags>
+    <repository type="git" url="https://github.com/cake-contrib/Cake.BuildSystems.Module.git" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+</package>
