@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Cake.BuildSystems.Module</id>
-    <version>4.1.0-addazurepipeline0001</version>
+    <version>4.1.0-gh-actions0001</version>
     <title>Cake Build Systems Module</title>
     <authors>Alistair Chapman</authors>
     <license type="expression">MIT</license>
